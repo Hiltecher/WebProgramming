@@ -13,6 +13,7 @@ P.S - V1.11 was released to remove some css I realised did not have an effect on
 
 This commit introduces a paragraph element with some introduction text. A favicon that was in the works is now ready and visible on the webpage.
 
+# 3rd Commit (Version 1.13)
 
-
+This commit introduces more text to explain the purpose of the website. Breaktags are used to break up lines of text for better reading and usability.
 
