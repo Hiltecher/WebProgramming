@@ -5,6 +5,8 @@
 /* Applying Montserrat to the entire body of the webpage */
 body {
     font-family: 'font-name', montserrat;
+    background-image: url('background.png');
+    background-repeat: repeat;
 }
 
 /* Styling h1 element with a colour and a size */
@@ -29,4 +31,14 @@ body {
 
     max-width: 300px;
     border-radius: 10px;
+}
+
+/* Styling the main div tags */
+.container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+
 }

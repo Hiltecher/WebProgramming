@@ -17,3 +17,8 @@ This commit introduces a paragraph element with some introduction text. A favico
 
 This commit introduces more text to explain the purpose of the website. Breaktags are used to break up lines of text for better reading and usability.
 
+# 4th Commit (Version 2)
+
+This commit introduces a complete revamp of the aim of the project - I have now begun the implementation of my roadNexus idea, which is a website developed to allow users to report problems of other cars they see on the road, and if owners are registered on the website then they will get the reports sent to them.
+CSS has been implemented and more will be added in the upcoming commits.
+
